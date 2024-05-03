@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/GestionAcademica/VIEW/Intranet/Dashboard.php</file>
+            <file>file:/C:/xampp/htdocs/GestionAcademica/VIEW/Alumno/FrmAlumno.php</file>
+            <file>file:/C:/xampp/htdocs/GestionAcademica/DAO/ConexionDAO.php</file>
+            <file>file:/C:/xampp/htdocs/GestionAcademica/ENTITY/Alumno.php</file>
+            <file>file:/C:/xampp/htdocs/GestionAcademica/index.php</file>
+            <file>file:/C:/xampp/htdocs/GestionAcademica/DAO/AlumnoDAO.php</file>
+            <file>file:/C:/xampp/htdocs/GestionAcademica/BL/AlumnoBL.php</file>
+        </group>
+        <group name="References">
+            <file>file:/C:/xampp/htdocs/GestionAcademica/VIEW/Intranet/Dashboard.php</file>
+            <file>file:/C:/xampp/htdocs/GestionAcademica/VIEW/Usuario/Modules/perfUsuario.php</file>
+        </group>
+    </open-files>
+</project-private>
